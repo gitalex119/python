@@ -7,7 +7,7 @@ class ScrapperManager:
     def __init__(self, start_year, end_year):
         self.start_year = start_year
         self.end_year = end_year
-        self.archive_url = f"URL"
+        self.archive_url = f""
 
     def get_archive(self, year):
         response = requests.get(f"{self.archive_url}{year}")
