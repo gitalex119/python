@@ -1,1 +1,0 @@
-- A simple project for retrieving the subtitles from the desired youtube videos.
