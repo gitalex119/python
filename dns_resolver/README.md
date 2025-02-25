@@ -1,0 +1,1 @@
+- DNS Resolver (send a request for a desired website and it returns the IP address)
