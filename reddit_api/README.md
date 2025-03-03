@@ -3,6 +3,7 @@ To use this script, please follow the next steps:
   1. Create a reddit account
   2. Go to https://www.reddit.com/prefs/apps 
   3. Press "create another app"
+
   ![image](https://github.com/user-attachments/assets/a447859d-b065-4cbe-b3e9-bfeef62ebb96)
   4. Complete all the fields:
        - name
