@@ -4,7 +4,8 @@ To use this script, please follow the next steps:
   2. Go to https://www.reddit.com/prefs/apps 
   3. Press "create another app"
 
-  ![image](https://github.com/user-attachments/assets/a447859d-b065-4cbe-b3e9-bfeef62ebb96)
+  ![image](https://github.com/user-attachments/assets/f67fa426-71f1-45c6-b22d-1ef86a0c9112)
+
   4. Complete all the fields:
        - name
        - Choose "script"
