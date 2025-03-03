@@ -28,5 +28,3 @@ To use this script, please follow the next steps:
   9. Run the script
   10. Enjoy!
 
-Please find attached a screenshot of the result of the script execution
-![image](https://github.com/user-attachments/assets/c257749b-3936-4cb0-a3ad-abe2f91b1d76)
